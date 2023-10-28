@@ -1,0 +1,7 @@
+Table: bike_data - Row Count: 4780363
+Table: central_park_weather - Row Count: 2984
+Table: fhv_bases - Row Count: 1098
+Table: fhvhv_tripdata - Row Count: 32182272
+Table: fhv_tripdata - Row Count: 3008649
+Table: green_tripdata - Row Count: 238718
+Table: yellow_tripdata - Row Count: 5454972
